@@ -35,7 +35,7 @@ Starting the Server<br/>
 Accessing the Server<br/>
 1.	Open a web browser (which doesn’t usually support HTTP2) or an HTTP client.<br/>
 2.	Use the server's host and port in the URL:<br/>
-o	http://<your-ip>:<port>/<br/>
+o	http://your-ip:port/<br/>
 3.	If HTTP/2 is enabled, the server will automatically detect and handle HTTP/2 requests.<br/>
 
 !!! That’s it, the server should be working !!!<br/>
